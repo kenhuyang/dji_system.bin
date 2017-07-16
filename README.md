@@ -8,7 +8,6 @@ https://www.gnu.org/licenses/gpl-faq.en.html
 “GPL gives a person permission to make & redistribute copies of the program if & when that person chooses to do so”
 https://www.gnu.org/licenses/gpl-faq.en.html#CanIDemandACopy
 “You can charge people a fee to get a copy from you. You can't require people to pay you when they get a copy from someone else.”
-
 “if someone pays your fee and gets a copy, the GPL gives them the freedom to release it to the public, with or without a fee”
 “The GPL says that anyone who receives a copy from you has the right to redistribute copies, modified or not.”
 https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowNDA

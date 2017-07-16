@@ -96,8 +96,6 @@ http://dji.retroroms.info
 
 For more information on GPL rights as a DJI Enterprise end user see below:
 
-![GPL Violation](https://pbs.twimg.com/media/DE1Bq2EUMAUbaQQ.jpg)
-
 ![GPL Violation](https://pbs.twimg.com/media/DE0nLtvUIAEElqv.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0jqs3UMAEqaKl.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0kC3uUIAEspBe.jpg)

@@ -43,21 +43,23 @@ Known Md5s of files pulled from DJI updates, user contributed files, and exploit
 ```
 MD5 (UniversalFireworksTar_dji_system.bin) = 10e4b4ba3da6e2e2455f2958ea897e9c
 MD5 (V01.00.0300_Spark_dji_system.bin) = bf81af1c10318e8549bb78b0fef85013
-MD5 (V01.00.0400_Spark_dji_system.bin) = 65f15f4cbe7d761459c7a09ebc660801 (pulled from adiru aka troll: mossad911 VM)
+MD5 (V01.00.0400_Spark_dji_system.bin) = 65f15f4cbe7d761459c7a09ebc660801 # (pulled from adiru aka troll: mossad911 VM)
 MD5 (V01.03.0400_Mavic_dji_system.bin) = a5ac037462b4f902bfa6cb8d9fe395ae
+MD5 (V01.03.0400_RC_Mavic_dji_system.bin) = d5f40b9231786d6d5053539a78a105c5 # (pulled from adiru aka troll: mossad911 VM)
 MD5 (V01.03.0700_Mavic_dji_system.bin) = 891904fad23add85e8c50a7902f272df
+MD5 (V01.03.0700_RC_Mavic_dji_system.bin) = 8c11d7e04c03142a50cc0c9538d49fa6
+MD5 (V01.03.0800_Goggles_dji_system.bin) = e2c93ded968c148f94c7a81776ce1dfd
 MD5 (V01.03.0800_Mavic_dji_system.bin) = 6602c26ed0729581246853d7c988a4ae
 MD5 (V01.03.0900_Mavic_dji_system.bin) = 984446beb028443670091e07d3bbd752
-MD5 (V01.03.0700_RC_Mavic_dji_system.bin) = 8c11d7e04c03142a50cc0c9538d49fa6
-MD5 (V01.03.0400_RC_Mavic_dji_system.bin) = d5f40b9231786d6d5053539a78a105c5 (pulled from adiru aka troll: mossad911 VM)
+
 ```
 
 Known files from *homebrew* variants
 ```
 MD5 (mavic_combined_400_root.bin) = 86b322026612e96fa09373bc8560674a - from hostile (drops root & downgrades to Mavic .400)
 MD5 (mavic_combined_700_root.bin) = 3df0890c5e5a59ea1ef2476c4b728206 - *same* for .700
-MD5 (V1.02.0602_P4crafted.dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
-MD5 (V2.00.0106_P4crafted.dji_system.bin) = a49944bb254354ec064bee13c491fa1e
+MD5 (V01.02.0602_P4crafted.dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
+MD5 (V02.00.0106_P4crafted.dji_system.bin) = a49944bb254354ec064bee13c491fa1e
 ```
 To combine your own files do the following (using gnu-tar from brew if on OSX):
 ```

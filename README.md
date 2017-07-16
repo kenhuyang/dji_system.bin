@@ -58,8 +58,9 @@ Known files from *homebrew* variants
 ```
 MD5 (mavic_combined_400_root.bin) = 86b322026612e96fa09373bc8560674a - from hostile (drops root & downgrades to Mavic .400)
 MD5 (mavic_combined_700_root.bin) = 3df0890c5e5a59ea1ef2476c4b728206 - *same* for .700
-MD5 (V01.02.0602_P4crafted.dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
-MD5 (V02.00.0106_P4crafted.dji_system.bin) = a49944bb254354ec064bee13c491fa1e
+MD5 (V01.02.0602_P4crafted_dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
+MD5 (V02.00.0106_P4crafted_dji_system.bin) = a49944bb254354ec064bee13c491fa1e
+MD5 (V01.03.0700_Gogglescrafted.1.03.0700.bin) = 76eefdb955bfa416e2f43f2ac9f86b84
 ```
 To combine your own files do the following (using gnu-tar from brew if on OSX):
 ```

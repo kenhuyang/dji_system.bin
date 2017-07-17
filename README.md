@@ -92,8 +92,8 @@ MD5 (V01.00.0330_I2crafted_dji_system.bin) = 0a5c437812b91355c9ae0d4d28d505d1
 MD5 (V01.02.0602_P4crafted_dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
 MD5 (V01.03.0509_P4Pcrafted_dji_system.bin) = 93a1663f6675a813ed494e260bb54e89
 MD5 (V02.00.0106_P4crafted_dji_system.bin) = a49944bb254354ec064bee13c491fa1e
-MD5 (V01.03.0800_RC_Mavic_dji_system.bin) = e2508fbf87ce87c0dc7fb7721e555901
-MD5 (V01.03.0900_RC_Mavic_dji_system.bin) = beb6c9dea2a0ad5f688ada4d439e969f
+MD5 (V01.03.0800_RC_Maviccrafted_dji_system.bin) = e2508fbf87ce87c0dc7fb7721e555901
+MD5 (V01.03.0900_RC_Maviccrafted_dji_system.bin) = beb6c9dea2a0ad5f688ada4d439e969f
 ```
 To combine your own files do the following (using gnu-tar from brew if on OSX):
 ```

@@ -65,10 +65,12 @@ MD5 (V01.03.0400_Mavic_dji_system.bin) = a5ac037462b4f902bfa6cb8d9fe395ae
 MD5 (V01.03.0400_RC_Mavic_dji_system.bin) = d5f40b9231786d6d5053539a78a105c5 # (pulled from adiru aka troll: mossad911 VM)
 MD5 (V01.03.0700_Mavic_dji_system.bin) = 891904fad23add85e8c50a7902f272df
 MD5 (V01.03.0700_RC_Mavic_dji_system.bin) = 8c11d7e04c03142a50cc0c9538d49fa6
+MD5 (V01.03.0700_Goggles_dji_system.bin) = 47e7ea9eb5f5609bbd8141f7edb3516c
 MD5 (V01.03.0800_Goggles_dji_system.bin) = e2c93ded968c148f94c7a81776ce1dfd
 MD5 (V01.03.0800_Mavic_dji_system.bin) = 6602c26ed0729581246853d7c988a4ae
 MD5 (V01.03.0900_Mavic_dji_system.bin) = 984446beb028443670091e07d3bbd752
 MD5 (V01.01.0010_I2_dji_system.bin) = 7d04f199bd872c9372fdebddbef3c404
+
 ```
 
 Known files from *homebrew* variants

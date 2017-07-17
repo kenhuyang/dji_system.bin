@@ -1,6 +1,11 @@
 # dji_system.bin
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an inspire2, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
+Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
+
+![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
+
+Now...
 ![GPL Violation](https://pbs.twimg.com/media/DE1Bq1zU0AEG2lx.jpg)
 
 https://www.gnu.org/licenses/gpl-faq.en.html

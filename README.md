@@ -78,7 +78,8 @@ MD5 (V01.03.0400_RC_Mavic_dji_system.bin) = d5f40b9231786d6d5053539a78a105c5 # (
 MD5 (V01.03.0700_Mavic_dji_system.bin) = 891904fad23add85e8c50a7902f272df
 MD5 (V01.03.0700_RC_Mavic_dji_system.bin) = 8c11d7e04c03142a50cc0c9538d49fa6
 MD5 (V01.03.0700_Goggles_dji_system.bin) = 47e7ea9eb5f5609bbd8141f7edb3516c
-MD5 (V01.03.0800_Goggles_dji_system.bin) = e2c93ded968c148f94c7a81776ce1dfd
+MD5 (V01.03.0800_Goggles_dji_system.bin) = e2c93ded968c148f94c7a81776ce1d
+MD5 (V01.03.0900_Goggles_dji_system.bin) = 1f82d27681217b4c388a593e4ba6f875fd
 MD5 (V01.03.0800_Mavic_dji_system.bin) = 6602c26ed0729581246853d7c988a4ae
 MD5 (V01.03.0900_Mavic_dji_system.bin) = 984446beb028443670091e07d3bbd752
 ```
@@ -90,9 +91,9 @@ MD5 (mavic_combined_700_root.bin) = 3df0890c5e5a59ea1ef2476c4b728206 - *same* fo
 MD5 (V01.00.0330_I2crafted_dji_system.bin) = 0a5c437812b91355c9ae0d4d28d505d1
 MD5 (V01.02.0602_P4crafted_dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
 MD5 (V01.03.0509_P4Pcrafted_dji_system.bin) = 93a1663f6675a813ed494e260bb54e89
-MD5 (V01.03.0700_Gogglescrafted.1.03.0700.bin) = 76eefdb955bfa416e2f43f2ac9f86b84
-MD5 (V01.03.0900_Goggles_dji_system.bin) = 1f82d27681217b4c388a593e4ba6f875
 MD5 (V02.00.0106_P4crafted_dji_system.bin) = a49944bb254354ec064bee13c491fa1e
+MD5 (V01.03.0800_RC_Maviccrafted_dji_system.bin) = e2508fbf87ce87c0dc7fb7721e555901
+MD5 (V01.03.0900_RC_Maviccrafted_dji_system.bin) = beb6c9dea2a0ad5f688ada4d439e969f
 ```
 To combine your own files do the following (using gnu-tar from brew if on OSX):
 ```

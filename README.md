@@ -81,7 +81,6 @@ MD5 (V01.03.0800_Goggles_dji_system.bin) = e2c93ded968c148f94c7a81776ce1dfd
 MD5 (V01.03.0800_Mavic_dji_system.bin) = 6602c26ed0729581246853d7c988a4ae
 MD5 (V01.03.0900_Mavic_dji_system.bin) = 984446beb028443670091e07d3bbd752
 MD5 (V01.01.0010_I2_dji_system.bin) = 7d04f199bd872c9372fdebddbef3c404
-MD5 (data_copy.bin) = 133d14108497decbb85d79196ce703ca # example of an NFZ update 
 
 ```
 
@@ -142,3 +141,55 @@ For more information on GPL rights as a DJI Enterprise end user see below:
 ![GPL Violation](https://pbs.twimg.com/media/DE0mAIEUQAEfsv5.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0mcDuUIAE4Wug.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0nlY5VYAAZS58.jpg)
+
+For posterity a bit of info on data_copy.bin aka the NFZ db abused by RedHerring
+MD5 (data_copy.bin) = 133d14108497decbb85d79196ce703ca # example of an NFZ update 
+```
+$ ~/dji_research/tools/image.py nfz.sig 
+{   'auth_key': b'GFAK',
+    'blocks_cnt': 1,
+    'enc_key': b'IAEK',
+    'header_size': 224,
+    'image_name': b'geof'
+                  b'ense',
+    'magic': b'IM*H',
+    'payload_size': 2928640,
+    'rsa_sig_size': 256,
+    'scramble_key': <__main__.c_ubyte_Array_16 object at 0x10612f598>,
+    'sha256_payload': <__main__.c_ubyte_Array_32 object at 0x10612f620>,
+    'version': 1}
+Can't find enc_key IAEK
+Unpacking block {   'attrib': 1,
+    'name': b'GFDB',
+    'output_size': 2928640,
+    'start_offset': 0}
+
+$ file nfz.db 
+nfz.db: SQLite 3.x database
+
+$ sqlite3 nfz.db .schema
+CREATE TABLE airmap_geofence_polygons (
+        area_id int,
+        points  blob,
+        country int,
+        lat     int,
+        lng     int,
+        radius  int,
+        shape  int,
+        sub_area_id int,
+        height      int,
+        area_level  int
+      );
+CREATE INDEX index_airmap_area_id on airmap_geofence_polygons (area_id);
+CREATE INDEX index_airmap_lat_lng on airmap_geofence_polygons (lat, lng);
+CREATE TABLE geofence_version (
+        version            varchar(255),
+        data_timestamp        int,
+        area_count         int,
+        remark varchar(255) DEFAULT NULL
+
+      );
+
+```
+
+

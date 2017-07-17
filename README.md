@@ -4,7 +4,16 @@ DJI is currently in violation of GPL... these binaries are intended to be distri
 Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
 
 ![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
+"DJI Updates Process For Activating Software And Firmware Updates New Procedure Requires Login After Update; Password Reset Available"
+https://www.dji.com/newsroom/news/dji-updates-process-for-activating-software-and-firmware-updates
 
+```
+If this activation process is not performed, the aircraft will not have access to the correct geospatial information and flight functions for that region, 
+and its operations will be restricted if you update the upcoming firmware: Live camera streaming will be disabled, and flight will be limited to a 50-meter 
+(164-foot) radius up to 30 meters (98 feet) high.
+
+The feature applies to all aircraft (mentioned above) that have been upgraded to the latest firmware or when using future versions of the DJI GO and GO 4 apps.
+```
 Now about the GPL binaries and accompanying source... 
 
 ![GPL Violation](https://pbs.twimg.com/media/DE1Bq1zU0AEG2lx.jpg)

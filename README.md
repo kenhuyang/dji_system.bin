@@ -5,7 +5,8 @@ Never mind the fact that we are *seemingly* being forced into certain firmware v
 
 ![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
 
-Now...
+Now about the GPL binaries and accompanying source... 
+
 ![GPL Violation](https://pbs.twimg.com/media/DE1Bq1zU0AEG2lx.jpg)
 
 https://www.gnu.org/licenses/gpl-faq.en.html

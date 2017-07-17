@@ -33,6 +33,17 @@ https://www.gnu.org/licenses/gpl-faq.en.html#TradeSecretRelease
 https://www.gnu.org/licenses/gpl-faq.en.html#TradeSecretRelease
 ```
 
+Words from the ever so wise Tridge of ArduPilot "Malicious? Fight them"
+https://www.samba.org/~tridge/gplv3_sydney.pdf
+![GPL Violation](https://pbs.twimg.com/media/DE5eiumUIAAHpan.jpg)
+
+As a simple example we can take Busybox:
+![GPL Violation](https://pbs.twimg.com/media/DE5caDoU0AArLcC.jpg)
+![GPL Violation](https://pbs.twimg.com/media/DE5cKTgUAAAV-0J.jpg)
+
+If this were the good ole days... they would be on the public shame wall.
+https://web-beta.archive.org/web/20130116093247/http://busybox.net/shame.html
+![GPL Violation](https://pbs.twimg.com/media/DE5eIdBXkAAjRy2.jpg)
 
 Please contact FSF and ask for the GPL source code that DJI uses to be published. 
 [![Fuck yeah](https://media.giphy.com/media/wi8Ez1mwRcKGI/giphy.gif)](https://www.youtube.com/watch?v=T437DdmFNPU)

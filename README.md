@@ -2,12 +2,16 @@
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an inspire2, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
 ![Initial contact and refusal to supply](https://pbs.twimg.com/media/DEt61OTUAAAOd7j.jpg)
+
 ![Second Attempt with internal help!](https://pbs.twimg.com/media/DEt61X1VYAA37KC.jpg)
+
 ![A month later... still nothing](https://pbs.twimg.com/media/DEt61RpU0AA2QZ9.jpg)
+
 ![then we learn P0V tried too...](https://pbs.twimg.com/media/DE168EuVoAA9RTc.jpg)
 
 The initial GPL violation was noticed in an AES implementation added to BusyBox ftpd (running inside the drone components)
-![AES BusyBox GPL violation](https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble)
+
+https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble
 
 Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
 

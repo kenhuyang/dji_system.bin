@@ -13,23 +13,6 @@ The initial GPL violation was noticed in an AES implementation added to BusyBox 
 
 https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble
 
-Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
-
-![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
-![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DEVX8wyXgAAM8ox.jpg)
-
-https://www.dji.com/newsroom/news/dji-updates-process-for-activating-software-and-firmware-updates
-```
-DJI Updates Process For Activating Software And Firmware Updates New Procedure Requires Login After Update; Password Reset Available
-```
-
-```
-If this activation process is not performed, the aircraft will not have access to the correct geospatial information and flight functions for that region, 
-and its operations will be restricted if you update the upcoming firmware: Live camera streaming will be disabled, and flight will be limited to a 50-meter 
-(164-foot) radius up to 30 meters (98 feet) high.
-
-The feature applies to all aircraft (mentioned above) that have been upgraded to the latest firmware or when using future versions of the DJI GO and GO 4 apps.
-```
 Now about the GPL binaries and accompanying source... 
 
 ![GPL Violation](https://pbs.twimg.com/media/DE1Bq1zU0AEG2lx.jpg)
@@ -157,6 +140,25 @@ For more information on GPL rights as a DJI Enterprise end user see below:
 ![GPL Violation](https://pbs.twimg.com/media/DE0mAIEUQAEfsv5.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0mcDuUIAE4Wug.jpg)
 ![GPL Violation](https://pbs.twimg.com/media/DE0nlY5VYAAZS58.jpg)
+
+Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
+
+![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
+
+![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DEVX8wyXgAAM8ox.jpg)
+
+https://www.dji.com/newsroom/news/dji-updates-process-for-activating-software-and-firmware-updates
+```
+DJI Updates Process For Activating Software And Firmware Updates New Procedure Requires Login After Update; Password Reset Available
+```
+
+```
+If this activation process is not performed, the aircraft will not have access to the correct geospatial information and flight functions for that region, 
+and its operations will be restricted if you update the upcoming firmware: Live camera streaming will be disabled, and flight will be limited to a 50-meter 
+(164-foot) radius up to 30 meters (98 feet) high.
+
+The feature applies to all aircraft (mentioned above) that have been upgraded to the latest firmware or when using future versions of the DJI GO and GO 4 apps.
+```
 
 For posterity a bit of info on data_copy.bin aka the NFZ db abused by RedHerring
 MD5 (data_copy.bin) = 133d14108497decbb85d79196ce703ca # example of an NFZ update 

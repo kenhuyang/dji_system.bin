@@ -4,6 +4,7 @@ DJI is currently in violation of GPL... these binaries are intended to be distri
 Never mind the fact that we are *seemingly* being forced into certain firmware variants as a *reaction* to CopterSafe NFZ bypass.
 
 ![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DE5s4L6VwAAzcKL.jpg)
+![You do not have to update the firmware and app if you don't want to](https://pbs.twimg.com/media/DEVX8wyXgAAM8ox.jpg)
 
 https://www.dji.com/newsroom/news/dji-updates-process-for-activating-software-and-firmware-updates
 "DJI Updates Process For Activating Software And Firmware Updates New Procedure Requires Login After Update; Password Reset Available"

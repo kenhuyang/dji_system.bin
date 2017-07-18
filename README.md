@@ -10,8 +10,13 @@ DJI is currently in violation of GPL... these binaries are intended to be distri
 ![then we learn P0V tried too...](https://pbs.twimg.com/media/DE168EuVoAA9RTc.jpg)
 
 The initial GPL violation was noticed in an AES implementation added to BusyBox ftpd (running inside the drone components)
-
 https://github.com/MAVProxyUser/DJI_ftpd_aes_unscramble
+
+This issue was subsequently highlighted when the "tar -C" directory traveral issue was revealed in the busybox tar used by DJI update processes
+https://github.com/MAVProxyUser/P0VsRedHerring/
+https://github.com/MAVProxyUser/P0VsRedHerring/blob/master/RedHerring.rb#L30
+https://bugs.busybox.net/attachment.cgi?id=6211&action=diff
+https://bugs.busybox.net/show_bug.cgi?id=8411
 
 Now about the GPL binaries and accompanying source... 
 
@@ -161,6 +166,7 @@ The feature applies to all aircraft (mentioned above) that have been upgraded to
 ```
 
 For posterity a bit of info on data_copy.bin aka the NFZ db abused by RedHerring
+
 MD5 (data_copy.bin) = 133d14108497decbb85d79196ce703ca # example of an NFZ update 
 ```
 $ ~/dji_research/tools/image.py nfz.sig 

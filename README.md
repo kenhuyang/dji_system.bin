@@ -1,5 +1,10 @@
 # dji_system.bin
-DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an inspire2, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
+DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an nspire2, Goggles, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
+
+Update:
+On Jul 18, 2017, at 10:30 AM, Bruce Perens wrote:
+"Thank you (and whoever else helped) very much for the detailed examination which I see on your GIT repository. 
+Please inform the DJI community that this morning I have written to DJI legal regarding the problem. I will inform you if they respond"
 
 ![Initial contact and refusal to supply](https://pbs.twimg.com/media/DEt61OTUAAAOd7j.jpg)
 

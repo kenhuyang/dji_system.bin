@@ -141,6 +141,21 @@ lrwxr-xr-x  0 root   staff       0 Jul  9 01:51 symlink -> /data/.bin
 ```
 You can see this file has BOTH the root, and the downgrade packaged together. 
 
+You can also create your own single sig updates from the firm_cache
+https://github.com/MAVProxyUser/firm_cache
+
+iMac:firm_cache hostile$ mkdir test
+iMac:firm_cache hostile$ cd test
+iMac:test hostile$ cp ../wm220_0305_v34.04.00.23_20161122.pro.fw.sig ../V01.03.0900_Mavic_dji_system/wm220.cfg.sig .
+iMac:test hostile$ tar cvf dji_system.bin *.sig
+a wm220.cfg.sig
+a wm220_0305_v34.04.00.23_20161122.pro.fw.sig
+
+Example file:
+MD5 (single_sig_test.tar) = 72e2bb6753aeb048946875a31e5a20a8
+
+Push the above file with pyduml of course... 
+
 This is the most up to date source of info on "rooting" DJI aircraft. Start here with questions
 http://dji.retroroms.info 
 

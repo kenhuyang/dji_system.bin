@@ -13,6 +13,7 @@ Please inform the DJI community that this morning I have written to DJI legal re
 For information on the GPL violation issue please see: https://github.com/MAVProxyUser/dji_system.bin/blob/master/GPL.md
 
 The heads of The Five Families of DJI Jailbreaking scene have met...
+<img src=https://pbs.twimg.com/media/DFrZ-F1VwAAY9js.jpg>           
 
 https://genius.com/Francis-ford-coppola-the-godfather-scene-8-annotated
 

@@ -2,6 +2,7 @@
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an Inspire2, Goggles, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
 If you are just here to learn how dji_system.bin is used for firmware downgrades please go here: https://github.com/MAVProxyUser/dji_system.bin/blob/master/HOWTO.md
+
 NFZ databases's are one item that can be pushed in down/upgrade files, more detail on them can be found here: https://github.com/MAVProxyUser/dji_system.bin/blob/master/NFZ.md
 
 GPL Update:
@@ -15,24 +16,15 @@ The heads of The Five Families of DJI Jailbreaking scene have met...
 
 https://genius.com/Francis-ford-coppola-the-godfather-scene-8-annotated
 
-Drone Corleone: "When...when did I ever refuse an accommodation? All of you know me here. When did I ever refuse? Except one time. And 
-why? Because I believe this unlocked drone business is gonna destroy us in the years to come. I mean, it's not like ratemode, FPV or even, BLVOS 
-which is something that most people want nowadays, and is forbidden to them... Even the police departments that've helped us in the past with 
-gambling and other things are gonna refuse to help us when in comes to unlocked drones. And I believed that then and I believe that now."
+Drone Corleone: "When...when did I ever refuse an accommodation? All of you know me here. When did I ever refuse? Except one time. And why? Because I believe this unlocked drone business is gonna destroy us in the years to come. I mean, it's not like ratemode, FPV or even, BLVOS which is something that most people want nowadays, and is forbidden to them... Even the police departments that've helped us in the past with gambling and other things are gonna refuse to help us when in comes to unlocked drones. And I believed that then and I believe that now."
 
 bin4ry: "Times have changed. It's not like the Old Days when we can do anything we want."
 
-Hostile: "I also don't believe in unlocked drones. For years I paid my people extra so they wouldn't do that kind of business. Somebody comes to 
-them and says, "I have CopterSafe; if you put up three, four thousand dollar investment we can make fifty thousand distributing." So they can't 
-resist. I want to control it as a business, to keep it respectable. *as he slams his hand on the table* I don't want it near warzones. I don't 
-want it sold to militants! That's an infamia. In my city, we would keep the traffic in the Band chat – the Facebook users. They're animals anyway, 
-so let them lose their souls..."
+Hostile: "I also don't believe in unlocked drones. For years I paid my people extra so they wouldn't do that kind of business. Somebody comes to them and says, "I have CopterSafe; if you put up three, four thousand dollar investment we can make fifty thousand distributing." So they can't resist. I want to control it as a business, to keep it respectable. *as he slams his hand on the table* I don't want it near warzones. I don't want it sold to militants! That's an infamia. In my city, we would keep the traffic in the Band chat – the Facebook users. They're animals anyway, so let them lose their souls..."
 
-Drone Corleone: "I hoped that we would come here and reason together. And as a reasonable man I'm willing to do 
-whatever's necessary to find a peaceful solution to these problems..."
+Drone Corleone: "I hoped that we would come here and reason together. And as a reasonable man I'm willing to do whatever's necessary to find a peaceful solution to these problems..."
 
-bin4ry: "Then we are agreed. The traffic in unlocked drones will be permitted, but controlled and Drone Corleone will give up protection of the NFZ, 
-and there will be the peace."
+bin4ry: "Then we are agreed. The traffic in unlocked drones will be permitted, but controlled and Drone Corleone will give up protection of the NFZ, and there will be the peace."
 
 Drone Corleone: "I will not be the one to break the peace that we have made here today... "
 

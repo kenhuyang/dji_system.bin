@@ -1,5 +1,6 @@
 ```
 MD5 (UniversalFireworksTar_dji_system.bin) = 0e0b9d397ad132dc5af8ee37d1b2a5fd
+MD5 (V01.00.0006_Spark_dji_system.bin) = cc9c68028cb9d3331f16c09d43cf4ba4
 MD5 (V01.00.0300_Spark_dji_system.bin) = bf81af1c10318e8549bb78b0fef85013
 MD5 (V01.00.0330_I2_dji_system.bin) = 0a5c437812b91355c9ae0d4d28d505d1
 MD5 (V01.00.0400_Spark_dji_system.bin) = 65f15f4cbe7d761459c7a09ebc660801

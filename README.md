@@ -13,9 +13,8 @@ For information on the GPL violation issue please see: https://github.com/MAVPro
 
 The heads of The Five Families of DJI Jailbreaking scene have met...
 
-![father](https://media1.giphy.com/media/3og0ICXGBlvpgSDQOI/giphy.gif)
-
 https://genius.com/Francis-ford-coppola-the-godfather-scene-8-annotated
+
 Drone Corleone: "When...when did I ever refuse an accommodation? All of you know me here. When did I ever refuse? Except one time. And 
 why? Because I believe this unlocked drone business is gonna destroy us in the years to come. I mean, it's not like ratemode, FPV or even, BLVOS 
 which is something that most people want nowadays, and is forbidden to them... Even the police departments that've helped us in the past with 

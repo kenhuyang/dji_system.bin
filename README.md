@@ -13,7 +13,7 @@ For information on the GPL violation issue please see: https://github.com/MAVPro
 
 The heads of The Five Families of DJI Jailbreaking scene have met...
 
-<img src=https://media.giphy.com/media/3og0ICXGBlvpgSDQOI/giphy.gif>
+![father](https://media1.giphy.com/media/3og0ICXGBlvpgSDQOI/giphy.gif)
 
 https://genius.com/Francis-ford-coppola-the-godfather-scene-8-annotated
 Drone Corleone: "When...when did I ever refuse an accommodation? All of you know me here. When did I ever refuse? Except one time. And 

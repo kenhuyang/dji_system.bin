@@ -1,4 +1,7 @@
 # dji_system.bin
+WARNING! Use this repo at your own risk. You CAN brick your DJI product if you don't know what you are doing.  
+The author is not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure of this code repository to perform.
+
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an Inspire2, Goggles, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
 If you are just here to learn how dji_system.bin is used for firmware downgrades please go here: https://github.com/MAVProxyUser/dji_system.bin/blob/master/HOWTO.md

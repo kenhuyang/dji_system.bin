@@ -8,6 +8,7 @@ MD5 (V01.00.0400_Spark_dji_system.bin) = 65f15f4cbe7d761459c7a09ebc660801
 MD5 (V01_00_0500_Spark_dji_system.bin) = 7eb929d2030fe574a65b92f7282548c6
 MD5 (V01.01.0010_I2_dji_system.bin) = 7d04f199bd872c9372fdebddbef3c404
 MD5 (V01.01.0203_P4P_dji_system.bin) = 950ca897ee21cbb545f5e30ab198eaa7
+MD5 (V01.02.0304_P4P_dji_system.bin) = a56be33f41e9932fed74ec2bf5d44fc8
 MD5 (V01.02.0503_P4_dji_system.bin) = 96a52ebc0f9152fd9fd02566f60ade77
 MD5 (V01.02.0602_P4_dji_system.bin) = 36e11566ae6e303ec5c407f9c0f6c382
 MD5 (V01.03.0200_Mavic_dji_system.bin) = 3d27db82d7f7a5f6a5025ffa08aa89e8

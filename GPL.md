@@ -1,4 +1,9 @@
 # dji_system.bin
+Update:
+DJI has made direct steps toward woking to GPL comliance: http://www.dji.com/opensource
+https://s3.amazonaws.com/dji-brandsite-document/opensource/busybox-1.25.1.tar.gz
+https://s3.amazonaws.com/dji-brandsite-document/opensource/mmc_utils.tar.gz
+
 DJI is currently in violation of GPL... these binaries are intended to be distributed to end users that have purchased either an nspire2, Goggles, Mavic, Spark, or P4 variant drone,and are seeking to downgrade their aircraft back to its factory state. 
 
 Update:

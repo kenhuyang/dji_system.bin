@@ -1,8 +1,10 @@
 ```
 MD5 (UniversalFireworksTar_dji_system.bin) = 0e0b9d397ad132dc5af8ee37d1b2a5fd
+MD5 (V00.00.0118_P4A_dji_system.bin) = 3837e234c503c97e6a813656609b2886
 MD5 (V01.00.0002_RC_Spark_fw.tar) = 7bca3be9f176c61834b47063441e984c
 MD5 (V01.00.0006_Spark_dji_system.bin) = cc9c68028cb9d3331f16c09d43cf4ba4
 MD5 (V01.00.0100_RC_Spark_fw.tar) = 900c650ef2e28aa49e1d86f3cdf88743
+MD5 (V01.00.0128_P4A_dji_system.bin) = d71605c94c0b1392f021af0ea806db6b
 MD5 (V01.00.0240_I2_dji_system.bin) = 3f391ac629bc3a1464fee92f1b5ecc02
 MD5 (V01.00.0300_RC_Spark_fw.tar) = 496d475a17e8421e95b28c4d1ce1cc3c
 MD5 (V01.00.0300_Spark_dji_system.bin) = bf81af1c10318e8549bb78b0fef85013

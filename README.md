@@ -1,6 +1,6 @@
 This repo is spent! I will not be paying for GIT LFS any longer, please use DankDroneDownloader https://github.com/cs2000/DankDroneDownloader
 
-dji_system.bin
+#dji_system.bin
 WARNING! Use this repo at your own risk. You CAN brick your DJI product if you don't know what you are doing.  
 The author is not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure of this code repository to perform.
 

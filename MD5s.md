@@ -2,6 +2,7 @@
 MD5 (UniversalFireworksTar_dji_system.bin) = 0e0b9d397ad132dc5af8ee37d1b2a5fd
 MD5 (V00.00.0118_P4A_dji_system.bin) = 3837e234c503c97e6a813656609b2886
 MD5 (V01.00.0001_GogglesRE_dji_system.bin) = dab9cbb66291e3afa050e66945515b9f
+MD5 (V01.00.0002_GogglesRE_dji_system.bin) = e4e151b81919d0638791d0c2ce968256
 MD5 (V01.00.0001_OcusyncUnit_dji_system) = e0ebf840b168e7a19ee89278bc8383f7
 MD5 (V01.00.0002_OcusyncUnit_dji_system) = 46fbd4bc91f267e5b34fd5819ac4eb6b
 MD5 (V01.00.0002_RC_Spark_fw.tar) = 7bca3be9f176c61834b47063441e984c
